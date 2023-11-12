@@ -1,7 +1,7 @@
 # mi-unlock Tool for Xiaomi Devices
 Unlock Xiaomi bootloader using a secondary phone via OTG.
 
-## Official Tool Source [RohitVerma882](https://github.com/RohitVerma882/termux-miunlock.git)
+### Official Tool Source [RohitVerma882](https://github.com/RohitVerma882/termux-miunlock.git)
 
 ### Version Changes
 Several modifications have been made to this version to enhance efficiency and user-friendliness. Notable changes include:
