@@ -1,8 +1,7 @@
 # mi-unlock for Android
 A program that can be used to unlock the bootloader for Xiaomi devices
 
-## Official tool source
-[RohitVerma882](https://github.com/RohitVerma882/termux-miunlock.git)
+## Official tool source [RohitVerma882](https://github.com/RohitVerma882/termux-miunlock.git)
 
 ## Instructions
 1) download [mi-unlock](https://github.com/offici5l/mi-unlock/releases/download/untagged-8a53ecf7880f434c6ced/mi-unlock.zip) and Unzip mi-unlock.zip
