@@ -1,5 +1,5 @@
-mi-unlock Tool for Xiaomi Devices
-Unlock Xiaomi bootloader using a secondary phone via OTG.
+mi-unlock Tool for Xiaomi Devices.
+Unlock Xiaomi bootloader using a secondary phone via OTG
 
 Version Changes
 Several modifications have been made to this version to enhance efficiency and user-friendliness. Notable changes include:
